@@ -5,7 +5,7 @@ The presentations I gave
 
     Programming language: **Python**
 
-+ [Simulation of the Levy Processes.](https://github.com/romanlykhnenko/Presentations/blob/master/Simulation_of_Levy_Processes.pdf)University project, Humboldt-Universität zu Berlin
++ [Simulation of the Levy Processes.](https://github.com/romanlykhnenko/Presentations/blob/master/Simulation_of_Levy_Processes.pdf) University project, Humboldt-Universität zu Berlin
 
   Programming language: **R**
 
