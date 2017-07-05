@@ -7,7 +7,7 @@ The presentations I gave
 
 + [Pricing kernels and their dependence on the implied volatility index](https://github.com/romanlykhnenko/Presentations/blob/master/MasterThesisSlides.pdf), *Master Thesis, Humboldt-Universität zu Berlin* 
 
-  Programming language: **R**, Date: 05.07.2017
+  Programming language: **R**, Date: 05.07.2016
   
 + [Simulation of the Levy Processes.](https://github.com/romanlykhnenko/Presentations/blob/master/Simulation_of_Levy_Processes.pdf) *University project, Humboldt-Universität zu Berlin*
 
